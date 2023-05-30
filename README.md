@@ -4,14 +4,17 @@
   </h2>
 </p>
 
+##Anggota Tim
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810220006  | Nefrit Mahardika      |
 | 140810220016  | Rafa Agustant         |
 | 140810220082  | Jaya Hutasoit         |
 
+##Deskripsi Program
 Program ini adalah sebuah program sederhana yang digunakan untuk mengecek apakah sebuah angka atau teks merupakan palindrom atau bukan. Palindrom adalah angka atau teks ketika dibaca dari depan maupun dari belakang tetap sama. Contoh palindrom adalah 121, "kasurrusak", dan "rotator".
 
+##Cara Menggunakan Program
 Cara Menggunakan Program
 1. Pastikan Anda memiliki DOSBOX yang sudah terpasang di komputer Anda.
 2. Unduh file program PAL.ASM dari repositori ini.
