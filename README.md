@@ -1,4 +1,14 @@
-Program Assembly Cek Palindrom
+<p align="center">
+  <h2 align="center">
+    Program Assembly Cek Palindrom
+  </h2>
+</p>
+| NPM           | Name                  |
+| ------------- |---------------------- |
+| 140810220006  | Nefrit Mahardika      |
+| 140810220016  | Rafa Agustant         |
+| 140810220082  | Jaya Hutasoit         |
+
 Program ini adalah sebuah program sederhana yang digunakan untuk mengecek apakah sebuah angka atau teks merupakan palindrom atau bukan. Palindrom adalah angka atau teks ketika dibaca dari depan maupun dari belakang tetap sama. Contoh palindrom adalah 121, "kasurrusak", dan "rotator".
 
 Cara Menggunakan Program
