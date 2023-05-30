@@ -21,7 +21,7 @@ Program ini adalah sebuah program sederhana yang digunakan untuk mengecek apakah
 
 2. Unduh file program PAL.ASM dari repositori ini.
 
-3. Buka DOSBOX dan compile file "PAL.ASM" menggunakan NASM dengan syntax "nasm -f bin -o PAL.COM PAL.ASM'.
+3. Buka DOSBOX dan compile file "PAL.ASM" menggunakan NASM dengan syntax "nasm -f bin -o PAL.COM PAL.ASM".
 
 4. Run program dengan syntax "PAL.COM".
 
