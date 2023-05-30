@@ -3,8 +3,9 @@
     Program Assembly Cek Palindrom
   </h2>
 </p>
-| NPM           | Name                  |
-| ------------- |---------------------- |
+
+| NPM           | Name        |
+| ------------- |-------------|
 | 140810220006  | Nefrit Mahardika      |
 | 140810220016  | Rafa Agustant         |
 | 140810220082  | Jaya Hutasoit         |
